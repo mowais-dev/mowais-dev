@@ -19,7 +19,7 @@ Building scalable backend systems & high-performance mobile apps
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,flutter,vue,firebase,mongodb,mysql,wordpress" />
+<img src="https://skillicons.dev/icons?i=laravel,php,flutter,vue,firebase,mongodb,mysql,wordpress,js,html,css,python,tailwind,react,electron,vuetify,dart" />
 
 </p>
 
