@@ -64,7 +64,7 @@ Flutter + Firebase — Real-time chat with authentication
 
 - 💼 Open to collaboration  
 - 🚀 Always building & learning  
-- 📧 Add your email here  
+- 📧 owais.gosha@gmail.com
 
 ---
 
