@@ -49,7 +49,7 @@ Laravel + Flutter — CMS with mobile companion
 Flutter — Operational workflow mobile system  
 
 ### 🏢 SPMS  
-Laravel — Structured Project Management System  
+Laravel — Structured Property Management System  
 
 ---
 
@@ -57,6 +57,10 @@ Laravel — Structured Project Management System
 
 ### 💬 WhatsUp Mobile App  
 Flutter + Firebase — Real-time chat with authentication  
+
+### 🛍️ Uni Tech Shop & Admin Panel 
+Flutter + Firebase — Web-view products management system with admin controls
+
 
 ---
 
