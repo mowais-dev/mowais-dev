@@ -61,6 +61,8 @@ Flutter + Firebase — Real-time chat with authentication
 ### 🛍️ Uni Tech Shop & Admin Panel 
 Flutter + Firebase — Web-view products management system with admin controls
 
+### 📝 SmartQuiz Ai App
+Flutter (BLoC) + Firebase — AI powered quiz app for self learning and quizes 
 
 ---
 
