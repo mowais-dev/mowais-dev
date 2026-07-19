@@ -1,77 +1,110 @@
-# Hi, I'm Owais 👋  
+# Hi, I'm Muhammad Kashif 👋
 
-### 🚀 Full Stack Web & Mobile Application Developer  
-Building scalable backend systems & high-performance mobile apps  
+## 🚀 Full Stack Developer
+
+Building scalable web, mobile, AI-powered applications, and modern digital solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Backend Specialist — Laravel & Core PHP  
-- 📱 Cross-Platform Mobile Developer — Flutter  
-- ⚡ Frontend Development — Vue.js  
-- 🗄 SQL & NoSQL Databases  
-- 🔥 Passionate about building production-ready systems  
+- 💼 Backend Specialist — Laravel & Core PHP
+- ⚛️ Frontend Development — React, Vue.js & Angular
+- 📱 Mobile App Development — Flutter & React Native
+- 🌐 CMS & E-Commerce — WordPress & Shopify
+- 🤖 AI Integration — OpenAI, Mistral AI & AI Automation
+- 🗄 Database Expertise — MySQL, PostgreSQL, Firebase & NoSQL
+- 🐧 DevOps & Server Management — Docker, Debian Linux & SSH
+- 🔥 Passionate about building scalable, secure, and production-ready software
+- 📚 Always learning and exploring new technologies
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+![Tech Stack](https://skillicons.dev/icons?i=laravel,php,wordpress,react,vue,angular,nodejs,flutter,dart,firebase,mysql,postgresql,mongodb,html,css,js,ts,tailwind,bootstrap,docker,git,github,linux,debian,bash,vscode,postman,nginx,redis)
 
-<img src="https://skillicons.dev/icons?i=laravel,php,flutter,vue,docker,firebase,mongodb,mysql,wordpress,js,html,css,python,tailwind,react,electron,vuetify,dart" />
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mowais-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mowais-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🏆 Featured Projects
-
-### 🔥 Overstorm CRM  
-Laravel + Flutter — Enterprise CRM with API & mobile integration  
-
-### 🚀 Live-Tech  
-Laravel — Customer & Asset Management System  
-
-### ☁ Sky CMS  
-Laravel + Flutter — CMS with mobile companion  
-
-### 📱 NIRSAL App  
-Flutter — Operational workflow mobile system  
-
-### 🏢 SPMS  
-Laravel — Structured Property Management System  
+| 💻 Frontend | ⚙️ Backend | 📱 Mobile | 🤖 AI | 🐳 DevOps | 🗄 Database | 🌐 CMS |
+|-------------|------------|-----------|--------|------------|-------------|---------|
+| React | Laravel | Flutter | OpenAI | Docker | MySQL | WordPress |
+| Vue.js | PHP | React Native | Mistral AI | Debian | PostgreSQL | Shopify |
+| Angular | Node.js | | AI Agents | SSH | Firebase | |
+| JavaScript | REST APIs | | LLM Integration | Git | NoSQL | |
+| TypeScript | | | Prompt Engineering | GitHub | | |
+| HTML5 | | | | Linux | | |
+| CSS3 | | | | CI/CD | | |
+| Tailwind CSS | | | | | | |
+| Bootstrap | | | | | | |
 
 ---
 
-# 🧪 Practice Projects
+## 📊 GitHub Stats
 
-### 💬 WhatsUp Mobile App  
-Flutter + Firebase — Real-time chat with authentication  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkashif-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🛍️ Uni Tech Shop & Admin Panel 
-Flutter + Firebase — Web-view products management system with admin controls
-
-### 📝 SmartQuiz Ai App
-Flutter (BLoC) + Firebase — AI powered quiz app for self learning and quizes 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkashif-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🤝 Connect With Me
+## 🚀 Featured Projects
 
-- 💼 Open to collaboration  
-- 🚀 Always building & learning  
-- 📧 owais.gosha@gmail.com
+### 🌾 Nirsal
+**Flutter**
+
+A mobile application built for farmers, providing digital agriculture services and productivity tools.
+
+### 📦 Ship Habibi
+**Laravel**
+
+A dropshipping admin panel for managing products, suppliers, inventory, orders, and shipping operations.
+
+### ☎️ Speekee
+**Laravel + AI**
+
+An AI-powered calling agent integrated with CRM systems to automate customer communication and lead qualification.
+
+### 🤖 Overstorm
+**Laravel + AI**
+
+An AI-powered CV analysis platform that helps recruiters identify the best candidates.
+
+### 🚁 Sky Helicopter
+**Laravel + React**
+
+A helicopter and flight booking platform with booking management and customer portal.
+
+### 🌐 Arvy Finlay
+**WordPress**
+
+A modern, responsive WordPress website with a custom UI.
+
+### 📰 Livetech CMS
+**Laravel**
+
+A scalable content management system for managing websites and digital content.
 
 ---
 
-⭐ From Owais — Building Systems That Scale
+## 💼 Services
+
+- 🚀 Full Stack Web Development
+- 📱 Cross-Platform Mobile App Development
+- 🤖 AI Integration
+- 🌐 WordPress Development
+- 🛍 Shopify Development
+- 🔌 REST API Development
+- 🗄 Database Design
+- 🐧 Linux Server Management
+- ☁️ Cloud Deployment
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 Muhammadkashif70000@gmail.com
+- 💼 Open to freelance, remote opportunities, and collaboration.
+
+---
+
+> ⭐ Turning ideas into scalable digital products that create real impact.
